@@ -115,3 +115,25 @@ h2{
     border-radius: 10px;
     text-decoration: underline;
 }
+about{
+    padding-top: 100px;
+    
+}
+.zokha{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(211, 232, 250);
+    border-radius: 10px;
+    align-items: normal;
+    border-color: #00254e;
+    border-style:double;
+    padding: auto;
+    margin-left: 100px;
+}
+.mutu{
+    padding: 100px;
+    text-decoration: none;
+
+
+}
+
