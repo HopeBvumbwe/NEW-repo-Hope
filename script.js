@@ -12,8 +12,7 @@ function showSlide() {
 
     if (currentSlide >= slides.length) {
         currentSlide = 0;
-    }
-}
+    }}
 
 showSlide();
 setInterval(showSlide, 3000);
