@@ -14,3 +14,39 @@
     border-radius: 4px;
     background-color: #bbd7f6;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+    background:#bbd7f6
+    
+}
+header{
+    position:fixed;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    display:flex;
+    flex-wrap : wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    text-decoration: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0)
+}
+.nav{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    text-decoration: none;
+    padding: 10px 20px;
+    
+
+}
+.nav-button{
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+}
