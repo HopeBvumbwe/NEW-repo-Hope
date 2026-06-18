@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.Logo{
+    font-size: 20px;
+    font-family: 'times new roman', serif;
+    font-weight: bold;
+    color: #00254e;
+    border: 2px solid #bbd7f6;
+    padding: 5px 10px;
+    border-radius: 4px;
+    background-color: #bbd7f6;
+}
